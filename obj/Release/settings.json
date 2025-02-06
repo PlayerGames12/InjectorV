@@ -1,0 +1,7 @@
+{
+  "AutoSelectLastProcess": false,
+  "LastSelectedProcessName": "",
+  "DefaultInjectionMethod": 0,
+  "EnableLogging": true,
+  "LogFilePath": "injector.log"
+}

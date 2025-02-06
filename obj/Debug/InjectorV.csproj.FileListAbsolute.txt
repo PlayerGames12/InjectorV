@@ -1,0 +1,14 @@
+D:\GameHaking\InjectorV\bin\Debug\InjectorV.exe.config
+D:\GameHaking\InjectorV\bin\Debug\InjectorV.exe
+D:\GameHaking\InjectorV\bin\Debug\InjectorV.pdb
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.csproj.AssemblyReference.cache
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.Properties.Resources.resources
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.csproj.GenerateResource.cache
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.csproj.CoreCompileInputs.cache
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.exe
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.pdb
+D:\GameHaking\InjectorV\bin\Debug\Newtonsoft.Json.xml
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.csproj.Up2Date
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.MainForm.resources
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.csproj.Fody.CopyLocal.cache
+D:\GameHaking\InjectorV\obj\Debug\InjectorV.csproj.Fody.RuntimeCopyLocal.cache
